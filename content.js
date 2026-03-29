@@ -299,6 +299,7 @@ function enableDrag(panel) {
 
   document.onmouseup = () => isDown = false;
 }
+<<<<<<< Updated upstream
 // from branch 02
 // 22222222222222222222222
 // 33333333333333333333333
@@ -306,3 +307,5 @@ function enableDrag(panel) {
 // 33333333333333333333333
 // Add ->> new branch 03++++++++++
 // 2222222222222222222222222222222
+=======
+>>>>>>> Stashed changes
