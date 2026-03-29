@@ -299,5 +299,3 @@ function enableDrag(panel) {
 
   document.onmouseup = () => isDown = false;
 }
-
-// fromm try- branch ...///1111////
