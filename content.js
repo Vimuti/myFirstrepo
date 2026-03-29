@@ -300,18 +300,3 @@ function enableDrag(panel) {
   document.onmouseup = () => isDown = false;
 }
 
-// add to try 01 
-// show me yr change
-// show me yr change
-// show me yr change
-// show me yr change
-// show me yr change
-// show me yr change
-// add to try 01 new one 
-// show me yr change
-// show me yr change
-// show me yr change
-// show me yr change
-// show me yr change
-// show me yr change
-// 
